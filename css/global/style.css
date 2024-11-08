@@ -1,0 +1,65 @@
+/*Global*/
+@import url(../global/global.css);
+
+/*Componentes*/
+@import url(../componentes/componentes.css);
+
+/*Variaveis*/
+@import url(../variaveis/var.css);
+
+/*Tipografia*/
+@import url(../variaveis/tipografia.css);
+
+/*Menu*/
+@import url(../menu/menu.css);
+
+/*Introdução*/
+@import url(../introducao/introducao.css);
+
+/*Bicicletas-lista*/
+@import url(../bicicletas/bicicleta-lista.css);
+
+/*Tecnologia*/
+@import url(../tecnologia/tecnologia.css);
+
+/*Parceiros*/
+@import url(../parceiros/parceiros.css);
+
+/*Depoimento*/
+@import url(../depoimento/depoimento.css);
+
+/*Seguros*/
+@import url(../seguros/seguros.css);
+
+/*Rodapé*/
+@import url(../footer/rodape.css);
+
+/*Termos*/
+@import url(../termos/termos.css);
+
+/*Bicicletas*/
+@import url(../bicicletas/bicicletas.css);
+
+/*Vantagens*/
+@import url(../seguros/vantagens.css);
+
+/*perguntas*/
+@import url(../seguros/perguntas.css);
+
+/*Bicicleta Interno*/
+@import url(../bicicletainterno/bicicleta.css);
+
+/*Bicicleta seguros*/
+@import url(../bicicletainterno/seguro.css);
+
+/*Contato*/
+@import url(../contato/contato.css);
+
+/*Lojas*/
+@import url(../contato/lojas.css);
+
+/*Formularios*/
+@import url(../componentes/formularios.css);
+
+/*Orçamento*/
+@import url(../orcamento/orcamento.css);
